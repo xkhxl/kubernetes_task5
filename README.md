@@ -40,9 +40,19 @@ The default static NGINX webpage is accessible at `http://127.0.0.1:11804`
 
 ---
 ## Screenshots
+### Running Pods
 ![Pods](./screenshots/pods.png)
+
+---
+### Services
 ![Services](./screenshots/services.png)
+
+---
+### Describing Pod
 ![Describe Pod](./screenshots/describe-pod.png)
+
+---
+### Output
 ![Output](./screenshots/output.png)
 
 ---
